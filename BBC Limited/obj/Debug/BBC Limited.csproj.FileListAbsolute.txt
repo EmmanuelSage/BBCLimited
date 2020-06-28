@@ -1,0 +1,81 @@
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\bin\Debug\BBC Limited.exe
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\bin\Debug\BBC Limited.pdb
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csprojResolveAssemblyReference.cache
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmMainMenu.resources
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSearch.resources
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.Properties.Resources.resources
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csproj.GenerateResource.Cache
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+C:\Users\Students\Desktop\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\bin\Debug\BBC Limited.exe
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\bin\Debug\BBC Limited.pdb
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csprojResolveAssemblyReference.cache
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmMainMenu.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSearch.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.Properties.Resources.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csproj.GenerateResource.Cache
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSupplierDetails.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEmployees.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmItemDetails.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmOrderDetails.resources
+C:\Users\Students\Desktop\emmy application\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmProductCategory.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\bin\Debug\BBC Limited.exe
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\bin\Debug\BBC Limited.pdb
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csprojResolveAssemblyReference.cache
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEmployees.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmItemDetails.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmMainMenu.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmOrderDetails.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmProductCategory.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSearch.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSupplierDetails.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.Properties.Resources.resources
+C:\Users\Students\Desktop\Emmanuel Assignments2\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csproj.GenerateResource.Cache
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\bin\Debug\BBC Limited.exe
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\bin\Debug\BBC Limited.pdb
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csprojResolveAssemblyReference.cache
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEmployees.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmItemDetails.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmMainMenu.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmOrderDetails.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmProductCategory.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSupplierDetails.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.Properties.Resources.resources
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csproj.GenerateResource.Cache
+C:\Users\Students\Documents\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEnquireSupplierDetails.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\bin\Debug\BBC Limited.exe
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\bin\Debug\BBC Limited.pdb
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csprojResolveAssemblyReference.cache
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEmployees.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEnquireSupplierDetails.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmItemDetails.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmMainMenu.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmOrderDetails.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmProductCategory.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSupplierDetails.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.Properties.Resources.resources
+D:\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\bin\Debug\BBC Limited.exe
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\bin\Debug\BBC Limited.pdb
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEmployees.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmEnquireSupplierDetails.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmItemDetails.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmMainMenu.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmOrderDetails.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmProductCategory.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.frmSupplierDetails.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC_Limited.Properties.Resources.resources
+C:\Users\HP\Desktop\flash\0134_SEC\emmy application\WInForms\BBC Limited\BBC Limited\obj\Debug\BBC Limited.csproj.GenerateResource.Cache
+E:\100days\NiitGithub\BBC Limited\BBC Limited\obj\Debug\BBC Limited.exe
+E:\100days\NiitGithub\BBC Limited\BBC Limited\obj\Debug\BBC Limited.pdb
